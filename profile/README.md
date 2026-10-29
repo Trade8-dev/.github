@@ -2,7 +2,7 @@
 
 **Secure Post-Quantum-Safe Trading Platform That Heals and Scales Itself.**
 
-Trade8 is the professional trading desk vertical of the Sentin8 platform — a complete proprietary trading suite: keyboard-class order entry, pre-trade risk gating, broker connectivity via FIX/OUCH, consolidated market data, OHLCV bars, and real-time P&L. Built for proprietary desks and introducing brokers with complete regulatory traceability.
+Trade8 is the professional trading desk vertical of the Sentin8 platform - a complete proprietary trading suite: keyboard-class order entry, pre-trade risk gating, broker connectivity via FIX/OUCH, consolidated market data, OHLCV bars, and real-time P&L. Built for proprietary desks and introducing brokers with complete regulatory traceability.
 
 ## Services
 
@@ -41,11 +41,11 @@ Trade8 depends on these Sentin8 platform services for cross-cutting concerns:
 
 ## Key Invariants
 
-- **Keyboard-class speed** — F-key chain (buy/sell limit & market, cancel-all, flatten) with profile-synced muscle memory
-- **Fail-closed authorization** — no Risk verdict means no acceptance; denies carry the itemized check trace into the blotter
-- **Instant supervision** — closing-only/disable flips a trader within a second, without touching credentials
-- **One source of money** — fill-derived, exactly-once P&L application; office rolls up from trader numbers by construction
-- **Full reconstruction** — any day replays to identical numbers from journal + opening balances; every wire message preserved
+- **Keyboard-class speed** - F-key chain (buy/sell limit & market, cancel-all, flatten) with profile-synced muscle memory
+- **Fail-closed authorization** - no Risk verdict means no acceptance; denies carry the itemized check trace into the blotter
+- **Instant supervision** - closing-only/disable flips a trader within a second, without touching credentials
+- **One source of money** - fill-derived, exactly-once P&L application; office rolls up from trader numbers by construction
+- **Full reconstruction** - any day replays to identical numbers from journal + opening balances; every wire message preserved
 
 ---
 
